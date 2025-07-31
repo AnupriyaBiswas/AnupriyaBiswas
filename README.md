@@ -40,12 +40,12 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=AnupriyaBiswas&theme=tokyonight_duo&border_radius=10" />
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=AnupriyaBiswas&show_icons=true&theme=tokyonight" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=AnupriyaBiswas&theme=tokyonight_duo&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=AnupriyaBiswas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnupriyaBiswas&layout=compact&theme=tokyonight&hide=html" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnupriyaBiswas&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
 </p>
 
 ---
@@ -67,13 +67,8 @@
 
 ### 🐍 Cosmic Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/output/snake-dark.svg" alt="Cosmic Snake Animation (Dark)" />
+  <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/output/snake.svg" alt="Snake animation" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/output/snake.svg" alt="Cosmic Snake Animation (Light)" />
-</p>
-
-> ⚡ If the snake doesn’t appear, GitHub Actions may not have finished generating it yet.
 
 ---
 
