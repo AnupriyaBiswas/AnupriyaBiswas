@@ -70,6 +70,9 @@
   <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/output/snake.svg" alt="Snake animation" />
 </p>
 
+### 🎶 Now Playing
+[![Spotify](https://novatorem-anupriya.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
+
 ---
 
 ### 🎶 Fun Fact
