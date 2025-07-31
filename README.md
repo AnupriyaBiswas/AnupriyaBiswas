@@ -65,7 +65,7 @@
 
 ---
 
-### 🐍 Cosmic Snake Animation
+### 🐍 In My Reputation Era
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/output/snake.svg" alt="Snake animation" />
 </p>
