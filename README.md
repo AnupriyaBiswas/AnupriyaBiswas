@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=1080&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Anupriya+Biswas;AI%2FML+Developer+in+Bio-Sensors;Exploring+the+Cosmos+of+Deep+Learning+🌌" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=1080&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Anupriya+Biswas;AI%2FML+Developer+Specializing+in+Bio-Sensors;Exploring+the+Cosmos+of+Deep+Learning+%F0%9F%8C%8C" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Building AI-Powered Solutions with Bio-Sensors & Deep Learning Architectures</h3>
+<h3 align="center">🚀 Crafting AI-Powered Solutions for Healthcare & Beyond 🌌</h3>
 
 ---
 
 ## 🌌 About Me  
-- 🎓 AI/ML Developer specializing in **Deep Learning Models & Bio-Sensor Applications**  
-- 🌱 Currently exploring **modern CNN architectures** & **multimodal learning**  
-- 🧠 Passionate about **bridging healthcare & AI**  
+- 🎓 AI/ML Developer focused on **Deep Learning Models & Bio-Sensor Applications**  
+- 🌱 Exploring **multimodal architectures** & **healthcare AI systems**  
+- 🧠 Passionate about **bridging medical technology & machine learning**  
 - ✨ Fun Fact: I code best while vibing to **Taylor Swift’s Evermore 🎶**
 
 ---
@@ -61,8 +61,15 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnupriyaBiswas&theme=tokyonight" />
 </p>
+
+### 🐍 Cosmic Snake  
 <p align="center">
-  <img src="https://github.com/AnupriyaBiswas/AnupriyaBiswas/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation">
+  <!-- Dark Mode Snake -->
+  <img src="https://github.com/AnupriyaBiswas/AnupriyaBiswas/blob/output/github-contribution-grid-snake-dark.svg" alt="Cosmic Snake Animation (Dark)">
+</p>
+<p align="center">
+  <!-- Light Mode Snake -->
+  <img src="https://github.com/AnupriyaBiswas/AnupriyaBiswas/blob/output/github-contribution-grid-snake.svg" alt="Cosmic Snake Animation (Light)">
 </p>
 
 ---
