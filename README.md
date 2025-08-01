@@ -3,7 +3,7 @@
 </p>
 
 ---
-
+### 🗪 Catch Me On
 <p align="center">
   <a href="mailto:anupriyabiswas2206@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-anupriyabiswas2206%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,13 +20,18 @@
 </p>
 
 ---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnupriyaBiswas&label=Profile%20views&color=0e75b6&style=flat" alt="My Fans > o" /> </p>
 
+---
+
+### 🏆 Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AnupriyaBiswas&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" />
   </a>
 </p>
+
 ---
 
 ### 🌌 Interests & Passions
