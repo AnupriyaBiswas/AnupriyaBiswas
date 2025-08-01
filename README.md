@@ -20,6 +20,14 @@
 </p>
 
 ---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AnupriyaBiswas&label=Profile%20views&color=0e75b6&style=flat" alt="My Fans > o" /> </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnupriyaBiswas&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  </a>
+</p>
+---
 
 ### 🌌 Interests & Passions
 - 🧠 Deep Learning Architectures  
