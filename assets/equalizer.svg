@@ -1,17 +1,100 @@
-<svg width="600" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="10" width="10" height="20" fill="#1DB954">
-    <animate attributeName="height" values="10;30;15;25;10" dur="1s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="30" y="10" width="10" height="20" fill="#1DB954">
-    <animate attributeName="height" values="20;10;30;15;20" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="50" y="10" width="10" height="20" fill="#1DB954">
-    <animate attributeName="height" values="15;25;10;30;15" dur="1s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="70" y="10" width="10" height="20" fill="#1DB954">
-    <animate attributeName="height" values="25;15;20;10;25" dur="1.3s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="90" y="10" width="10" height="20" fill="#1DB954">
-    <animate attributeName="height" values="10;30;20;15;10" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="cosmicGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9400d3"/>
+      <stop offset="50%" stop-color="#8a2be2"/>
+      <stop offset="100%" stop-color="#4b0082"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g fill="url(#cosmicGlow)" filter="url(#glow)">
+    <!-- Auto-generate 20 bars -->
+    <rect x="10" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;50;20" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;50;80" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="50" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;65;20" dur="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;35;80" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="90" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;40;20" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;60;80" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="130" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;70;20" dur="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;30;80" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="170" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;45;20" dur="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;55;80" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="210" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;60;20" dur="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;40;80" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="250" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;35;20" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;65;80" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="290" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;55;20" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;45;80" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="330" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;65;20" dur="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;35;80" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="370" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;40;20" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;60;80" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="410" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;70;20" dur="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;30;80" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="450" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;45;20" dur="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;55;80" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="490" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;60;20" dur="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;40;80" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="530" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;35;20" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;65;80" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="570" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;55;20" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;45;80" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="610" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;65;20" dur="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;35;80" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="650" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;40;20" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;60;80" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="690" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;70;20" dur="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;30;80" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="730" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;45;20" dur="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;55;80" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="770" y="20" width="20" height="80">
+      <animate attributeName="y" values="20;60;20" dur="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="80;40;80" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 </svg>
