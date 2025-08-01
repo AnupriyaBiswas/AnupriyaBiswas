@@ -70,36 +70,21 @@
   <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/output/snake.svg" alt="Snake animation" />
 </p>
 
+
 <h2 align="center">🎶 Now Playing Favorites</h2>
 
 <p align="center">
-  <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    
-    <div style="display: inline-block; text-align: center;">
-      <img src="assets/music/Obhabe Keno.jpg" width="150px" style="border-radius:10px;"><br>
-      <b>Obhabe Keno</b><br>
-      <i>Anupam Roy</i>
-    </div>
+  <a href="#"><img src="assets/music/Obhabe Keno.jpg" width="150px"><br><b>Obhabe Keno</b><br><i>Anupam Roy</i></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/music/Evermore.jpg" width="150px"><br><b>Evermore</b><br><i>Taylor Swift & Bon Iver</i></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/music/Agar Tum Saath Ho.jpg" width="150px"><br><b>Agar Tum Saath Ho</b><br><i>Alka Yagnik & Arijit Singh</i></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/music/Girl Crush.jpg" width="150px"><br><b>Girl Crush</b><br><i>Little Big Town</i></a>
+</p>
 
-    <div style="display: inline-block; text-align: center;">
-      <img src="assets/music/Evermore.jpg" width="150px" style="border-radius:10px;"><br>
-      <b>Evermore</b><br>
-      <i>Taylor Swift & Bon Iver</i>
-    </div>
-
-    <div style="display: inline-block; text-align: center;">
-      <img src="assets/music/Agar Tum Saath Ho.jpg" width="150px" style="border-radius:10px;"><br>
-      <b>Agar Tum Saath Ho</b><br>
-      <i>Alka Yagnik & Arijit Singh</i>
-    </div>
-
-    <div style="display: inline-block; text-align: center;">
-      <img src="assets/music/Girl Crush.jpg" width="150px" style="border-radius:10px;"><br>
-      <b>Girl Crush</b><br>
-      <i>Little Big Town</i>
-    </div>
-
-  </div>
+<p align="center">
+  <img src="assets/equalizer.svg" width="90%">
 </p>
 
 
