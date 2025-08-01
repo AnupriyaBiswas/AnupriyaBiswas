@@ -83,9 +83,110 @@
   <b>Obhabe Keno · Anupam Roy &nbsp;|&nbsp; Evermore · Taylor Swift & Bon Iver &nbsp;|&nbsp; Agar Tum Saath Ho · Arijit Singh, Alka Yagnik &nbsp;|&nbsp; Girl Crush · Little Big Town</b>
 </p>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/main/assets/music/equalizer.svg" width="90%">
+  <svg width="90%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="cosmicGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#8a2be2"/>
+        <stop offset="50%" stop-color="#9400d3"/>
+        <stop offset="100%" stop-color="#4b0082"/>
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <g fill="url(#cosmicGlow)" filter="url(#glow)">
+      <!-- Generate 20 bars -->
+      <rect x="0" y="30" width="20" height="90">
+        <animate attributeName="y" values="30;60;30" dur="1s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="90;60;90" dur="1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="30" y="40" width="20" height="80">
+        <animate attributeName="y" values="40;70;40" dur="1.3s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="80;50;80" dur="1.3s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="60" y="20" width="20" height="100">
+        <animate attributeName="y" values="20;60;20" dur="1.1s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="100;40;100" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="90" y="50" width="20" height="70">
+        <animate attributeName="y" values="50;30;50" dur="0.9s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="70;90;70" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="120" y="35" width="20" height="85">
+        <animate attributeName="y" values="35;65;35" dur="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="85;55;85" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="150" y="30" width="20" height="90">
+        <animate attributeName="y" values="30;50;30" dur="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="90;70;90" dur="0.8s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="180" y="40" width="20" height="80">
+        <animate attributeName="y" values="40;20;40" dur="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="80;100;80" dur="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="210" y="25" width="20" height="95">
+        <animate attributeName="y" values="25;60;25" dur="1.1s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="95;60;95" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="240" y="45" width="20" height="75">
+        <animate attributeName="y" values="45;25;45" dur="1.4s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="75;95;75" dur="1.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="270" y="35" width="20" height="85">
+        <animate attributeName="y" values="35;60;35" dur="1.3s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="85;60;85" dur="1.3s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="300" y="30" width="20" height="90">
+        <animate attributeName="y" values="30;50;30" dur="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="90;70;90" dur="1.6s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="330" y="40" width="20" height="80">
+        <animate attributeName="y" values="40;70;40" dur="0.7s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="80;50;80" dur="0.7s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="360" y="20" width="20" height="100">
+        <animate attributeName="y" values="20;40;20" dur="1.4s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="100;80;100" dur="1.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="390" y="35" width="20" height="85">
+        <animate attributeName="y" values="35;65;35" dur="1.1s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="85;55;85" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="420" y="45" width="20" height="75">
+        <animate attributeName="y" values="45;25;45" dur="0.9s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="75;95;75" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="450" y="30" width="20" height="90">
+        <animate attributeName="y" values="30;50;30" dur="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="90;70;90" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="480" y="40" width="20" height="80">
+        <animate attributeName="y" values="40;20;40" dur="1.3s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="80;100;80" dur="1.3s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="510" y="25" width="20" height="95">
+        <animate attributeName="y" values="25;60;25" dur="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="95;60;95" dur="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="540" y="35" width="20" height="85">
+        <animate attributeName="y" values="35;65;35" dur="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="85;55;85" dur="0.8s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="570" y="30" width="20" height="90">
+        <animate attributeName="y" values="30;50;30" dur="1s" repeatCount="indefinite"/>
+        <animate attributeName="height" values="90;70;90" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
 </p>
+
 
 
 ---
