@@ -70,76 +70,22 @@
   <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/output/snake.svg" alt="Snake animation" />
 </p>
 
-## 🎵 Now Playing
+## 🎶 Now Playing
 
-<div align="center">
+<p align="center">
+  <img src="assets/music/Obhabe Keno.jpg" width="150px" alt="Obhabe Keno">
+  <img src="assets/music/Evermore.jpg" width="150px" alt="Evermore">
+  <img src="assets/music/Agar Tum Saath Ho.jpg" width="150px" alt="Agar Tum Saath Ho">
+  <img src="assets/music/Girl Crush.jpg" width="150px" alt="Girl Crush">
+</p>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/music/Obhabe Keno.jpg" width="120px"><br>
-      <b>Obhabe Keno</b><br>
-      <i>Anupam Roy</i>
-    </td>
-    <td align="center">
-      <img src="assets/music/Evermore.jpg" width="120px"><br>
-      <b>Evermore</b><br>
-      <i>Taylor Swift & Bon Iver</i>
-    </td>
-    <td align="center">
-      <img src="assets/music/Agar Tum Saath Ho.jpg" width="120px"><br>
-      <b>Agar Tum Saath Ho</b><br>
-      <i>Alka Yagnik & Arijit Singh</i>
-    </td>
-    <td align="center">
-      <img src="assets/music/Girl Crush.jpg" width="120px"><br>
-      <b>Girl Crush</b><br>
-      <i>Little Big Town</i>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Obhabe Keno · Anupam Roy &nbsp;|&nbsp; Evermore · Taylor Swift & Bon Iver &nbsp;|&nbsp; Agar Tum Saath Ho · Arijit Singh, Alka Yagnik &nbsp;|&nbsp; Girl Crush · Little Big Town</b>
+</p>
 
-<br>
-
-<!-- Glowing SVG Visualizer -->
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <g fill="#00ffc3" filter="url(#glow)">
-    <rect x="10" y="20" width="20" height="60">
-      <animate attributeName="height" values="20;60;20" dur="1s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="40;20;40" dur="1s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="50" y="30" width="20" height="40">
-      <animate attributeName="height" values="40;70;40" dur="1.2s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="30;10;30" dur="1.2s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="90" y="10" width="20" height="80">
-      <animate attributeName="height" values="80;40;80" dur="0.8s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="10;50;10" dur="0.8s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="130" y="25" width="20" height="50">
-      <animate attributeName="height" values="50;80;50" dur="1.4s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="25;0;25" dur="1.4s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="170" y="15" width="20" height="70">
-      <animate attributeName="height" values="70;30;70" dur="1s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="15;55;15" dur="1s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-</svg>
-
-</div>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/main/assets/music/equalizer.svg" width="90%">
+</p>
 
 
 ---
