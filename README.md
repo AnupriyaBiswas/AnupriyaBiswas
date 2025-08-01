@@ -73,36 +73,44 @@
 ### 🎧 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/track/3Xb3CGBtGL2j2N0N5YJPvq" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738bfc6310c3f7f840e6c75e9c" width="250" alt="Obhabe Keno by Anupam Roy">
-  </a>
-  <br>
-  <b>Obhabe Keno</b> — Anupam Roy
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://open.spotify.com/track/3Xb3CGBtGL2j2N0N5YJPvq" target="_blank">
+          <img src="https://i.scdn.co/image/ab67616d0000b2738bfc6310c3f7f840e6c75e9c" width="200" alt="Obhabe Keno by Anupam Roy">
+        </a>
+        <br>
+        <sub><b>🎵 Obhabe Keno</b><br> Anupam Roy</sub>
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P" target="_blank">
+          <img src="https://i.scdn.co/image/ab67616d0000b2735dcf4f77dd08a4da7b5bdb48" width="200" alt="Evermore by Taylor Swift and Bon Iver">
+        </a>
+        <br>
+        <sub><b>🎵 Evermore</b><br> Taylor Swift & Bon Iver</sub>
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/track/4YQ90Nc3FJ2vL9oVqCEc8g" target="_blank">
+          <img src="https://i.scdn.co/image/ab67616d0000b2738f020cc3459e7be4b2f7f0a2" width="200" alt="Agar Tum Saath Ho by Alka Yagnik and Arijit Singh">
+        </a>
+        <br>
+        <sub><b>🎵 Agar Tum Saath Ho</b><br> Alka Yagnik & Arijit Singh</sub>
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b" target="_blank">
+          <img src="https://i.scdn.co/image/ab67616d0000b273a12c8c6d647a52e0c37fa0aa" width="200" alt="Girl Crush by Little Big Town">
+        </a>
+        <br>
+        <sub><b>🎵 Girl Crush</b><br> Little Big Town</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b2735dcf4f77dd08a4da7b5bdb48" width="250" alt="Evermore by Taylor Swift and Bon Iver">
-  </a>
-  <br>
-  <b>Evermore</b> — Taylor Swift, Bon Iver
+  <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/main/assets/equalizer.svg" alt="Equalizer Animation" width="600">
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/track/4YQ90Nc3FJ2vL9oVqCEc8g" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b2738f020cc3459e7be4b2f7f0a2" width="250" alt="Agar Tum Saath Ho by Alka Yagnik and Arijit Singh">
-  </a>
-  <br>
-  <b>Agar Tum Saath Ho</b> — Alka Yagnik, Arijit Singh
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a12c8c6d647a52e0c37fa0aa" width="250" alt="Girl Crush by Little Big Town">
-  </a>
-  <br>
-  <b>Girl Crush</b> — Little Big Town
-</p>
 
 
 ---
