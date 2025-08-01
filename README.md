@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=1080&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Anupriya+Biswas;AI%2FML+Developer+Specializing+in+Bio-Sensors;Exploring+the+Cosmos+of+Deep+Learning+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=1080&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Anupriya+Biswas;AI%2FML+Developer;Exploring+the+World+of+Deep+Learning+%F0%9F%8C%8C" alt="Typing SVG" />
 </p>
 
 ---
-
-<h3 align="center">🚀 Passionate AI/ML Developer | Specializing in Bio-Sensors</h3>
 
 <p align="center">
   <a href="mailto:anupriyabiswas2206@gmail.com">
