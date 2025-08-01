@@ -76,30 +76,22 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://open.spotify.com/track/3Xb3CGBtGL2j2N0N5YJPvq" target="_blank">
-          <img src="https://i.scdn.co/image/ab67616d0000b2738bfc6310c3f7f840e6c75e9c" width="200" alt="Obhabe Keno by Anupam Roy">
-        </a>
+        <img src="https://raw.githubusercontent.com/AnupriyaBiswas/assets/music/Evermore.jpg" width="200" alt="Obhabe Keno by Anupam Roy">
         <br>
         <sub><b>🎵 Obhabe Keno</b><br> Anupam Roy</sub>
       </td>
       <td align="center">
-        <a href="https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P" target="_blank">
-          <img src="https://i.scdn.co/image/ab67616d0000b2735dcf4f77dd08a4da7b5bdb48" width="200" alt="Evermore by Taylor Swift and Bon Iver">
-        </a>
+        <img src="https://raw.githubusercontent.com/AnupriyaBiswas/AnupriyaBiswas/assets/music/Obhabe Keno.jpg" width="200" alt="Evermore by Taylor Swift and Bon Iver">
         <br>
         <sub><b>🎵 Evermore</b><br> Taylor Swift & Bon Iver</sub>
       </td>
       <td align="center">
-        <a href="https://open.spotify.com/track/4YQ90Nc3FJ2vL9oVqCEc8g" target="_blank">
-          <img src="https://i.scdn.co/image/ab67616d0000b2738f020cc3459e7be4b2f7f0a2" width="200" alt="Agar Tum Saath Ho by Alka Yagnik and Arijit Singh">
-        </a>
+        <img src="https://raw.githubusercontent.com/AnupriyaBiswas/assets/music/Agar Tum Saath Ho.jpg" width="200" alt="Agar Tum Saath Ho by Alka Yagnik and Arijit Singh">
         <br>
         <sub><b>🎵 Agar Tum Saath Ho</b><br> Alka Yagnik & Arijit Singh</sub>
       </td>
       <td align="center">
-        <a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b" target="_blank">
-          <img src="https://i.scdn.co/image/ab67616d0000b273a12c8c6d647a52e0c37fa0aa" width="200" alt="Girl Crush by Little Big Town">
-        </a>
+        <img src="https://raw.githubusercontent.com/AnupriyaBiswas/assets/music/Girl Crush.jpg" width="200" alt="Girl Crush by Little Big Town">
         <br>
         <sub><b>🎵 Girl Crush</b><br> Little Big Town</sub>
       </td>
