@@ -17,6 +17,9 @@
   <a href="https://medium.com/@anupriyabiswas2206">
     <img src="https://img.shields.io/badge/Medium-Anupriya%20Biswas-12100E?style=for-the-badge&logo=medium" />
   </a>
+  <a href="https://anupriya-biswas.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-anupriya--biswas.vercel.app-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
